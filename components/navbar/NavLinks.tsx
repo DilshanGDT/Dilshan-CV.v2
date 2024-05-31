@@ -20,7 +20,7 @@ const NavLinks = () => {
         smooth={true}
         offset={50}
         duration={500}
-        className="cursor-pointer text-blue-600 px-3 py-2 text-md"
+        className="cursor-pointer hover:text-blue-600 px-3 py-2 text-md"
       >
         Services
       </Link>
@@ -30,7 +30,7 @@ const NavLinks = () => {
         smooth={true}
         offset={50}
         duration={500}
-        className="cursor-pointer text-blue-600 px-3 py-2 text-md"
+        className="cursor-pointer hover:text-blue-600 px-3 py-2 text-md"
       >
         Works
       </Link>
@@ -40,7 +40,7 @@ const NavLinks = () => {
         smooth={true}
         offset={50}
         duration={500}
-        className="cursor-pointer text-blue-600 px-3 py-2 text-md"
+        className="cursor-pointer hover:text-blue-600 px-3 py-2 text-md"
       >
         Client
       </Link>
@@ -50,7 +50,7 @@ const NavLinks = () => {
         smooth={true}
         offset={50}
         duration={500}
-        className="cursor-pointer text-blue-600 px-3 py-2 text-md"
+        className="cursor-pointer hover:text-blue-600 px-3 py-2 text-md"
       >
         Contacts
       </Link>
