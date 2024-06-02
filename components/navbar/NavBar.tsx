@@ -2,11 +2,9 @@
 
 import React, { useState } from "react";
 import { Link } from "react-scroll";
-//import Link from "next/link";
 import { Transition } from "@headlessui/react"; // for smooth transitions
 import NavLinks from "./NavLinks";
 import EmailContact from "./EmailContact";
-import MobileNav from "./MobileNavLinks";
 
 const NavBar = () => {
   const [isOpen, setIsOpen] = useState(false);
