@@ -1,3 +1,4 @@
+import Contact from "@/components/contact/Contact";
 import Header from "@/components/header/Header";
 import NavBar from "@/components/navbar/NavBar";
 import Project from "@/components/project/Project";
@@ -12,6 +13,7 @@ export default function Home() {
       <Service />
       <Project />
       <Tech />
+      <Contact />
     </main>
   );
 }
