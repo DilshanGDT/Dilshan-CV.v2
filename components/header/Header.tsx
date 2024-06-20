@@ -28,7 +28,7 @@ const Header = () => {
             solutions to the tech field.
           </p>
           <a
-            href="https://drive.google.com/file/d/1jeMdItPExp7pw8YUwI6C-X4ZDRhj6TnA/view?usp=sharing"
+            href="https://drive.google.com/file/d/1BCutzzACHzIXZLCphUttQmNEkqfQv65g/view?usp=sharing"
             className="font-semibold text-white md:mt-10 mt-5 pt-5 bg-indigo-900 rounded-md w-60 h-16 text-lg hover:bg-black"
           >
             See my Resume

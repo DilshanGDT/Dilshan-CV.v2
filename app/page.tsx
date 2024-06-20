@@ -10,6 +10,8 @@ export default function Home() {
   return (
     <main className="bg-white">
       <NavBar />
+      <br />
+      <br />
       <Header />
       <Service />
       <Project />
