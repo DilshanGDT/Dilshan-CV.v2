@@ -19,7 +19,7 @@ const NavBar = () => {
             <div className="flex items-center sm:mx-20 md:mx-20 justify-between w-full">
               <div className="flex justify-center items-center flex-shrink-0">
                 <h1 className="font-bold text-xl cursor-pointer">
-                  My E-<span className="text-blue-600">portfolio</span>
+                  Tharaka <span className="text-blue-600">Dilshan</span>
                 </h1>
               </div>
               <div className="hidden md:block">
